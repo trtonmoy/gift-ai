@@ -635,7 +635,7 @@ section {
 .counts {
   padding: 70px 0 60px;
   backdrop-filter: blur(3px);
-  /*background: url(../img/tokenbg.jpg) center no-repeat;*/
+  background: url(../img/tokenbg.jpg) center no-repeat;
   background-size: cover;
 }
 
